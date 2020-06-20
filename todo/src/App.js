@@ -5,7 +5,7 @@ import ToDoForm from "./components/TodoForm";
 
 function App() {
   return (
-    <div className="app-container">
+    <div className="App">
       <h2>To Do Reducer App</h2>
       <ToDoForm />
     </div>
