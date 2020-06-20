@@ -16,7 +16,6 @@ function ToDoList(props) {
             className={`todo${item.completed ? " done" : ""}`}
             key={item.id}
           >
-              // Stretch - add tag
             To Do: {item.item}
           </li>
         </div>
