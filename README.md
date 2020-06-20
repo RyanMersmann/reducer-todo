@@ -16,23 +16,23 @@ In this project, you build an app that let's you display a todo list from reduce
 
 ## Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository in your terminal.
-- [ ] CD into the project base directory `cd reducer-todo`.
-- [ ] Create a new react app running `npx create-react-app todo --use-npm`.
-- [ ] CD into the react app directory `cd todo`.
-- [ ] Start up the app using `npm start`.
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [done] Create a forked copy of this project.
+- [done] Add your team lead as collaborator on Github.
+- [done] Clone your OWN version of the repository in your terminal.
+- [done] CD into the project base directory `cd reducer-todo`.
+- [done] Create a new react app running `npx create-react-app todo --use-npm`.
+- [done] CD into the react app directory `cd todo`.
+- [done] Start up the app using `npm start`.
+- [done] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [done] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [done] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
-- [ ] Your team lead will count the project as complete by merging the branch back into master.
-- [ ] Do your magic!
+- [done] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
+- [done] Add your team lead as a reviewer on the pull-request
+- [done] Your team lead will count the project as complete by merging the branch back into master.
+- [done] Do your magic!
 
 ## Minimum Viable Product
 
